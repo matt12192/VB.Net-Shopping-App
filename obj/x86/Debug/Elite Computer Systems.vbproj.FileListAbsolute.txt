@@ -1,0 +1,87 @@
+C:\Users\MATT\AppData\Local\Temporary Projects\Elite Computer Systems\bin\Debug\Elite Computer Systems.exe
+C:\Users\MATT\AppData\Local\Temporary Projects\Elite Computer Systems\bin\Debug\Elite Computer Systems.pdb
+C:\Users\MATT\AppData\Local\Temporary Projects\Elite Computer Systems\bin\Debug\Elite Computer Systems.xml
+C:\Users\MATT\AppData\Local\Temporary Projects\Elite Computer Systems\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MATT\AppData\Local\Temporary Projects\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.frmTemplate.resources
+C:\Users\MATT\AppData\Local\Temporary Projects\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.Resources.resources
+C:\Users\MATT\AppData\Local\Temporary Projects\Elite Computer Systems\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MATT\AppData\Local\Temporary Projects\Elite Computer Systems\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MATT\AppData\Local\Temporary Projects\Elite Computer Systems\obj\x86\Debug\Elite Computer Systems.exe
+C:\Users\MATT\AppData\Local\Temporary Projects\Elite Computer Systems\obj\x86\Debug\Elite Computer Systems.xml
+C:\Users\MATT\AppData\Local\Temporary Projects\Elite Computer Systems\obj\x86\Debug\Elite Computer Systems.pdb
+C:\Users\MATT\Documents\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite Computer Systems.exe
+C:\Users\MATT\Documents\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite Computer Systems.xml
+C:\Users\MATT\Documents\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite Computer Systems.pdb
+C:\Users\MATT\Documents\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\bin\Debug\Elite Computer Systems.exe
+C:\Users\MATT\Documents\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\bin\Debug\Elite Computer Systems.pdb
+C:\Users\MATT\Documents\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\bin\Debug\Elite Computer Systems.xml
+C:\Users\MATT\Documents\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MATT\Documents\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.frmTemplate.resources
+C:\Users\MATT\Documents\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.Resources.resources
+C:\Users\MATT\Documents\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MATT\Documents\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MATT\Documents\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.frmMain.resources
+C:\Users\MATT\Documents\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.frmCustomer.resources
+C:\Users\MATT\Documents\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.frmOrder.resources
+C:\Users\MATT\Documents\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.frmInvoice.resources
+C:\Users\MATT\Documents\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.frmAbout.resources
+F:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite Computer Systems.exe
+F:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite Computer Systems.xml
+F:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite Computer Systems.pdb
+F:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\bin\Debug\Elite Computer Systems.exe
+F:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\bin\Debug\Elite Computer Systems.pdb
+F:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\bin\Debug\Elite Computer Systems.xml
+F:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.frmTemplate.resources
+F:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.frmAbout.resources
+F:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.frmCustomer.resources
+F:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.frmInvoice.resources
+F:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.frmMain.resources
+F:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.frmOrder.resources
+F:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.Resources.resources
+F:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite Computer Systems.exe
+G:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite Computer Systems.xml
+G:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite Computer Systems.pdb
+G:\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite Computer Systems.exe
+G:\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite Computer Systems.xml
+G:\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite Computer Systems.pdb
+\\ln-c1-fs1.serc.ac.uk\Users\Students\B\BOD08155977\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite Computer Systems.exe
+\\ln-c1-fs1.serc.ac.uk\Users\Students\B\BOD08155977\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite Computer Systems.xml
+\\ln-c1-fs1.serc.ac.uk\Users\Students\B\BOD08155977\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite Computer Systems.pdb
+\\ln-c1-fs1.serc.ac.uk\Users\Students\B\BOD08155977\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\bin\Debug\Elite Computer Systems.exe
+\\ln-c1-fs1.serc.ac.uk\Users\Students\B\BOD08155977\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\bin\Debug\Elite Computer Systems.pdb
+\\ln-c1-fs1.serc.ac.uk\Users\Students\B\BOD08155977\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\bin\Debug\Elite Computer Systems.xml
+\\ln-c1-fs1.serc.ac.uk\Users\Students\B\BOD08155977\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\ResolveAssemblyReference.cache
+\\ln-c1-fs1.serc.ac.uk\Users\Students\B\BOD08155977\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.frmTemplate.resources
+\\ln-c1-fs1.serc.ac.uk\Users\Students\B\BOD08155977\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.frmAbout.resources
+\\ln-c1-fs1.serc.ac.uk\Users\Students\B\BOD08155977\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.frmCustomer.resources
+\\ln-c1-fs1.serc.ac.uk\Users\Students\B\BOD08155977\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.frmInvoice.resources
+\\ln-c1-fs1.serc.ac.uk\Users\Students\B\BOD08155977\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.frmMain.resources
+\\ln-c1-fs1.serc.ac.uk\Users\Students\B\BOD08155977\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.frmOrder.resources
+\\ln-c1-fs1.serc.ac.uk\Users\Students\B\BOD08155977\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.Resources.resources
+\\ln-c1-fs1.serc.ac.uk\Users\Students\B\BOD08155977\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\GenerateResource.read.1.tlog
+\\ln-c1-fs1.serc.ac.uk\Users\Students\B\BOD08155977\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite Computer Systems.exe
+E:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite Computer Systems.xml
+E:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite Computer Systems.pdb
+E:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\bin\Debug\Elite Computer Systems.exe
+E:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\bin\Debug\Elite Computer Systems.pdb
+E:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\bin\Debug\Elite Computer Systems.xml
+E:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.frmTemplate.resources
+E:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.frmAbout.resources
+E:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.frmCustomer.resources
+E:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.frmInvoice.resources
+E:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.frmMain.resources
+E:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.frmOrder.resources
+E:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite_Computer_Systems.Resources.resources
+E:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\HND year 1\Programming\Procedural Programming Assignment 1\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\HND year 1\Programming\Assignment 2\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite Computer Systems.exe
+M:\HND year 1\Programming\Assignment 2\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite Computer Systems.xml
+M:\HND year 1\Programming\Assignment 2\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite Computer Systems.pdb
+C:\Users\Matt\Documents\HND year 1\Programming\Assignment 2\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite Computer Systems.exe
+C:\Users\Matt\Documents\HND year 1\Programming\Assignment 2\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite Computer Systems.xml
+C:\Users\Matt\Documents\HND year 1\Programming\Assignment 2\Elite Computer Systems\Elite Computer Systems\Elite Computer Systems\obj\x86\Debug\Elite Computer Systems.pdb
